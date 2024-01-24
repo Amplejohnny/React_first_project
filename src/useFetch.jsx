@@ -29,7 +29,6 @@ const useFetch = (url) => {
       }, [url]
     );
 
-
     const handleDelete = (id) => {
         const newLists = resourceList.filter(blog => blog.id !== id);
         setResourceList(newLists);

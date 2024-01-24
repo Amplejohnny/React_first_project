@@ -17,5 +17,4 @@ const Item = ({blog}) => (
   </div>
 )
 
-
 export default List
