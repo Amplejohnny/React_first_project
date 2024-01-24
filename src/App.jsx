@@ -10,7 +10,6 @@ import NotFound from './components/NotFound';
 const App = () => {
     
   return (
-    <>
     <Router>
       <Routes>
         <Route path='/' exact element={<><Search /><MainList /></>} />
@@ -19,7 +18,6 @@ const App = () => {
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Router>
-    </>
     )
 }
 
