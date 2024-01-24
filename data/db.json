@@ -1,0 +1,64 @@
+{
+  "resourceList": [
+    {
+      "title": "React",
+      "body": "React is a JavaScript library for building user interfaces, particularly for creating single-page applications where user data can change without requiring a page reload. Developed and maintained by Facebook, React follows a component-based architecture, making it efficient for building interactive and reusable UI components.",
+      "author": "Jordan Walke",
+      "id": 1
+    },
+    {
+      "title": "Redux",
+      "body": "Redux is a state management library for JavaScript applications, often used with React. It provides a predictable state container, ensuring a consistent and manageable state for an application. Redux is commonly employed in larger applications to centralize and manage the state, making it easier to debug, test, and maintain complex UIs.",
+      "author": "Dan Abramov",
+      "id": 2
+    },
+    {
+      "title": "JavaScript",
+      "body": "JavaScript is a versatile, high-level programming language primarily used for front-end web development. It enables dynamic content on websites, enhancing user interactivity. JavaScript is also used on the server side (Node.js) and for building various applications beyond web development.",
+      "author": "Aderemi Opeyemi",
+      "id": 3
+    },
+    {
+      "title": "Express",
+      "body": "Express is a minimal and flexible web application framework for Node.js, designed to simplify the process of building robust and scalable web applications and APIs. It provides a set of features for web and mobile applications, making it easier to handle tasks such as routing, middleware integration, request handling, and response generation. With a simple and intuitive API, Express allows developers to create server-side logic effectively. It is widely used in the Node.js ecosystem and is known for its speed ",
+      "author": "Daramola Afeez",
+      "id": 4
+    },
+    {
+      "title": "PHP",
+      "body": "Hypertext preprocessor",
+      "author": "Opeoluwa",
+      "id": 5
+    },
+    {
+      "title": "PHP",
+      "body": "Hypertext preprocessor",
+      "author": "Opeoluwa",
+      "id": 6
+    },
+    {
+      "title": "We will be back ",
+      "body": "A wise man once say we are going to come back for the reward of our effort ",
+      "author": "Opeoluwa",
+      "id": 7
+    },
+    {
+      "title": "LARAVEL ",
+      "body": "it is a php framework where software app is made ",
+      "author": "Opeyemi",
+      "id": 8
+    },
+    {
+      "title": "Java ",
+      "body": "Feel like a backend and develop with JAVA",
+      "author": "Brinuel Emmanuel",
+      "id": 9
+    },
+    {
+      "title": "We are in danger",
+      "body": "Being in dangerr is something to flex atimes given the kind of situation you find yourself",
+      "author": "Uchiha Madara",
+      "id": 10
+    }
+  ]
+}
